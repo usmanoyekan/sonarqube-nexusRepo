@@ -1,3 +1,4 @@
+#!/bin/sh
 sudo apt update -y
 sudo apt install openjdk-11-jdk -y
 sudo apt-get install tomcat9 tomcat9-docs tomcat9-admin -y
